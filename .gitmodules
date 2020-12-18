@@ -1,0 +1,9 @@
+[submodule "nmsdk"]
+	path = nmsdk
+	url = https://github.com/NorthernMechatronics/nmsdk.git
+[submodule "FreeRTOS"]
+	path = FreeRTOS
+	url = https://github.com/FreeRTOS/FreeRTOS.git
+[submodule "LoRaMac-node"]
+	path = LoRaMac-node
+	url = https://github.com/Lora-net/LoRaMac-node.git
